@@ -2,9 +2,9 @@
 
 // Create an array of variables
 $db['db_host'] = "localhost";
-$db['db_user'] = "HNDSOFTS2A25";
-$db['db_pass'] = "KqUWwP4G2d";
-$db['db_name'] = "HNDSOFTS2A25";
+$db['db_user'] = "USER";
+$db['db_pass'] = "PASSWORD";
+$db['db_name'] = "USER_NAME";
 
 // Create constant values
 foreach($db as $key => $value)
